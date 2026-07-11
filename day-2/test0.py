@@ -1,8 +1,5 @@
 # today its in build functions and variables !
 
-# Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
-# Write a python comment saying 'Day 2: 30 Days of python programming'
-#both are done !!
 
 #questions!! 
 # Declare a first name variable and assign a value to it DONE 
@@ -51,4 +48,4 @@
 
 
 # Run help('keywords') in Python shell or in your file to check for the Python reserved words or keywords
-
+# >> IN FILE : help.png
