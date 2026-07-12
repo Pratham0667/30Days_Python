@@ -60,7 +60,7 @@
 
 # Check if type of '10' is equal to type of 10
 # Check if int('9.8') is equal to 10
-# >> IN FILE : TYPE_EQ.PY
+# >> IN FILE : TYPE_EQ.PY : DONE
 
 
 # Write a script that prompts the user to enter hours and rate per hour. Calculate pay of the person?
