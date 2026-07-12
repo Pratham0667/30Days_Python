@@ -2,7 +2,7 @@
 
 Welcome to my repository! This is my personal 30-day coding challenge where I am mastering Python fundamentals, modular programming, and backend logic from the ground up. 
 
-I am building in public alongside my coding partner, Anvesha, tracking all daily scripts and milestones right here.
+I am building in public understanding each topics from fundamentals 
 
 ---
 
