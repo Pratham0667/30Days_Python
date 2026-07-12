@@ -4,6 +4,9 @@ Welcome to my repository! This is my personal 30-day coding challenge where I am
 
 I am building in public understanding each topics from fundamentals 
 
+## NOTE :
+ *  ** every days folder will have "test0.py" file . this file will contain all the questions i sloved along with the file name of each question and also the status, if its completed there is done beside the file name 
+
 ---
 
 ##  📚 Resources & References
