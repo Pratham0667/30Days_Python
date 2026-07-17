@@ -17,7 +17,7 @@ student = {
     "gender": "Male",
     "age": 20,
     "marital_status": "Single",
-    "skills": ["Python", "HTML"],
+    "skills": ["Python", "C"],
     "country": "India",
     "city": "Mangalore",
     "address": "Karnataka"
@@ -31,7 +31,6 @@ print(len(student))
 
 
 
-# 5. Get the value of skills and check the data type
 print("\nSkills:")
 print(student["skills"])
 
@@ -48,7 +47,7 @@ print(student["skills"])
 
 
 
-# 7. Get the dictionary keys as a list
+
 print("\nDictionary Keys:")
 print(list(student.keys()))
 
