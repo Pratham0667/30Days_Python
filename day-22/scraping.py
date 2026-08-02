@@ -1,6 +1,6 @@
 #Install request and beautifulsoup4 for scarping a website
-pip install requests
-pip install beautifulsoup4
+# pip install requests
+# pip install beautifulsoup4
 
 #Scraping of a website is done here
 #Website : Countries of the World: A Simple Example (scarpable sandbox which is available)
