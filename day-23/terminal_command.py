@@ -1,9 +1,9 @@
-pip install virtualenv
+# pip install virtualenv
 
-python -m venv venv  #venv (virtual environment has been created)
+# python -m venv venv  #venv (virtual environment has been created)
   
-.\venv\Script\Activate
+# .\venv\Script\Activate
 
-pip install Flask
-pip freeze
-deactivate
+# pip install Flask
+# pip freeze
+# deactivate
