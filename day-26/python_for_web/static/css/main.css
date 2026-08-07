@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f5f7fa;
+}
+
+header{
+    background:#2563eb;
+    padding:15px 40px;
+}
+
+.menu-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.brand-name{
+    color:white;
+    text-decoration:none;
+    font-size:28px;
+    font-weight:bold;
+}
+
+.nav-lists{
+    display:flex;
+    list-style:none;
+    gap:20px;
+}
+
+.nav-link{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.nav-link:hover{
+    color:#ffd54f;
+}
+
+main{
+    width:80%;
+    margin:40px auto;
+}
+
+h1{
+    color:#1f2937;
+}
+
+p{
+    font-size:18px;
+    line-height:1.7;
+}
